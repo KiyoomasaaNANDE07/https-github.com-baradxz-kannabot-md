@@ -67,7 +67,7 @@ global.owner = [
   ['6288296831250'],
   ['6288296831250],
   ['6288296831250'],
-  ['6288296831250', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
+  ['6288296831250', 'Denis-Bot【﻿ＸｘＹｚ】', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = 'Denis-Bot【﻿ＸｘＹｚ】' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ BotzzMee-Md¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '☘︎ ʙᴏᴛᴢᴢᴍᴇᴇ-MD'
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ Denis-Bot¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '☘︎ Denis-Bot'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ 𝗕𝗮𝗿𝗮𝗫𝗗 ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Denis ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
